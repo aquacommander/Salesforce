@@ -35,7 +35,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Cossra/AI.salesforce.agent.git
+git clone https://github.com/aquacommander/salesforce.git
 cd AI.salesforce.agent
 
 # Log in to your Salesforce Developer Org
