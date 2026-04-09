@@ -27,7 +27,6 @@
 - 🧩 **Full-Stack Salesforce App** — Apex backend + Lightning Web Components frontend
 - 🔒 **Secure API Auth** — Managed through Salesforce Named Credentials  
 - ⚙️ **SOQL + REST Integration** — Seamless CRM + AI data pipeline  
-- 📊 **Dynamic UI** — Real-time lead updates with responsive Lightning components  
 
 ---
 
