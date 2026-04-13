@@ -10,7 +10,7 @@
 ## ⚡ **AI-Powered Lead Scoring Engine (Salesforce + OpenAI Integration)**  
 
 **Integrated AI-based lead scoring directly into Salesforce CRM** using **Apex REST APIs** and **Lightning Web Components (LWC)** — delivering **real-time, intelligent prioritization** of leads and **automating intent analysis** to dramatically **improve sales accuracy and focus**.  
-
+This is the AI based System
 ---
 
 🖼️ **Demo**  
