@@ -1,6 +1,6 @@
 # 🤖 AI Lead Agent - Salesforce
 
-[![Deployed on](https://img.shields.io/badge/Deployed%20on-Salesforce-00A1E0?logo=salesforce&logoColor=white)](https://developer.salesforce.com/)
+
 [![API Integration](https://img.shields.io/badge/Integrated%20with-OpenAI-000000?logo=openai&logoColor=white)](https://openai.com/api)
 [![Built With](https://img.shields.io/badge/Built%20With-Apex%20%26%20LWC-1798c1?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/component-library/overview/components)
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
