@@ -13,8 +13,6 @@ This is the AI based System
 
 <img width="1721" height="862" alt="Screenshot 2025-10-21 at 5 00 57 PM" src="https://github.com/user-attachments/assets/82483201-887e-46ba-95f2-e8b9727e5bea" />
 
----
-
 <img width="1719" height="822" alt="Screenshot 2025-10-21 at 4 59 15 PM" src="https://github.com/user-attachments/assets/9e4bda3c-01aa-456d-8be5-24af1b858edc" />
 
 ---
