@@ -11,7 +11,6 @@
 Integrated AI-based lead scoring directly into Salesforce CRM using **Apex REST APIs** and **Lightning Web Components (LWC)** — delivering **real-time, intelligent prioritization** of leads and **automating intent analysis** to dramatically **improve sales accuracy and focus**.  
 This is the AI based System
 
-🖼️ **Demo**  
 <img width="1721" height="862" alt="Screenshot 2025-10-21 at 5 00 57 PM" src="https://github.com/user-attachments/assets/82483201-887e-46ba-95f2-e8b9727e5bea" />
 
 ---
