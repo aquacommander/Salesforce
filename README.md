@@ -18,7 +18,7 @@ This is the AI based System
 ---
 
 ## 🧩 Tech Highlights
-- 🔗 **OpenAI API Integration** — Connects Salesforce to GPT-4 Turbo for real-time AI insights and predictive lead scoring
+
 - 🧩 **Full-Stack Salesforce App** — Apex backend + Lightning Web Components frontend
 - 🔒 **Secure API Auth** — Managed through Salesforce Named Credentials  
 - ⚙️ **SOQL + REST Integration** — Seamless CRM + AI data pipeline  
