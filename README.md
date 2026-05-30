@@ -30,7 +30,7 @@ This is the AI based System
 ```bash
 # Clone the repository
 git clone https://github.com/aquacommander/salesforce.git
-cd AI.salesforce.agent
+
 
 # Log in to your Salesforce Developer Org
 sf org login web --alias DevOrg
